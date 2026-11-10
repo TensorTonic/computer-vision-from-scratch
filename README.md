@@ -160,6 +160,8 @@ Once these pieces feel familiar, work through the full [Cracking CV](https://www
 
 If you are preparing for interviews, the [Computer Vision Interview Questions](https://www.tensortonic.com/guides/computer-vision-interview-questions) guide covers the vision questions that come up most, from detection and segmentation to ViT and CLIP.
 
+For a written plan of what to learn and in which order, the [How to Learn Computer Vision](https://www.tensortonic.com/guides/how-to-learn-computer-vision) guide lays out a path through the field from the basics to current models.
+
 ## License
 
 MIT
