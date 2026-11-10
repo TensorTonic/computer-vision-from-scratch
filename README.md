@@ -158,6 +158,8 @@ A Vision Transformer cuts an image into patches, treats each patch as a token an
 
 Once these pieces feel familiar, work through the full [Cracking CV](https://www.tensortonic.com/study-plans/cracking-cv) study plan and then build something larger from the [Computer Vision projects](https://www.tensortonic.com/projects/sheets/computer-vision) sheet. The [research](https://www.tensortonic.com/research) section rebuilds AlexNet, VGG, ResNet, DenseNet, U-Net and ViT step by step, and the [diffusion study plan](https://www.tensortonic.com/study-plans/diffusion-from-scratch) is a good next track if you want to generate images instead of classifying them.
 
+If you are preparing for interviews, the [Computer Vision Interview Questions](https://www.tensortonic.com/guides/computer-vision-interview-questions) guide covers the vision questions that come up most, from detection and segmentation to ViT and CLIP.
+
 ## License
 
 MIT
